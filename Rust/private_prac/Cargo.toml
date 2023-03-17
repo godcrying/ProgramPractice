@@ -1,0 +1,6 @@
+[package]
+name = "private_prac"
+version = "0.1.0"
+authors = ["godcrying <godcrying1202@hotmail.com>"]
+
+[dependencies]
